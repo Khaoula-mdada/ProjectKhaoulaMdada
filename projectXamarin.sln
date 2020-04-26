@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectXamarin.Android", "p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectXamarin.iOS", "projectXamarin.iOS\projectXamarin.iOS.csproj", "{40ECCEB3-5167-4BD3-97D2-E8BCF2F5CCCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectXamarin", "projectXamarin\projectXamarin.csproj", "{E00D1A96-23B7-4081-90C8-969A664B70DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projectXamarin", "projectXamarin\projectXamarin.csproj", "{E00D1A96-23B7-4081-90C8-969A664B70DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
