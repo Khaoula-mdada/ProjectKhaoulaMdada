@@ -1093,11 +1093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin.iOS\\projectXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Khaoula\\Documents\\GitHub\\ProjectKhaoulaMdada\\projectXamarin.iOS\\projectXamarin.iOS.csproj",
       "projectName": "projectXamarin.iOS",
-      "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin.iOS\\projectXamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\Khaoula\\Documents\\GitHub\\ProjectKhaoulaMdada\\projectXamarin.iOS\\projectXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\Khaoula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Khaoula\\Documents\\GitHub\\ProjectKhaoulaMdada\\projectXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1118,8 +1118,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {
-              "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj"
+            "C:\\Users\\Khaoula\\Documents\\GitHub\\ProjectKhaoulaMdada\\projectXamarin\\projectXamarin.csproj": {
+              "projectPath": "C:\\Users\\Khaoula\\Documents\\GitHub\\ProjectKhaoulaMdada\\projectXamarin\\projectXamarin.csproj"
             }
           }
         }

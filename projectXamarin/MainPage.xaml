@@ -6,47 +6,47 @@
             mc:Ignorable="d"
             x:Class="projectXamarin.MainPage">
 
-    <Grid>
+    <Grid BackgroundColor="Black">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-            <Entry Placeholder="Identifiant du pays (ex : FR)" Text="{Binding Querry}" />
-            <Button Text="Get Corona Statistic" Command="{Binding GetCommand}" IsEnabled="{Binding IsNotBusy}"/>
-            <Label Text="{Binding CountryName}" HorizontalTextAlignment="Center" FontSize="Title" FontAttributes="Bold" />
+        <StackLayout BackgroundColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Entry Placeholder="Identifiant du pays (ex : FR)" Text="{Binding Querry}" TextColor="Beige"/>
+            <Button Text="Afficher les statistiques" Command="{Binding GetCommand}" IsEnabled="{Binding IsNotBusy}" WidthRequest="300" Margin="50 100 2 100" BackgroundColor="DarkRed" CornerRadius="10" TextColor="Beige"/>
+            <Label Text="{Binding CountryName}" HorizontalTextAlignment="Center" FontSize="Title" FontAttributes="Bold" TextColor="Beige"/>
         </StackLayout>
 
-        <ScrollView Grid.Row="1" IsVisible="{Binding ShowInfo}">
-            <StackLayout Spacing="10">
-                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
-                    <Label Text="Informations datant du " FontSize="Medium" />
-                    <Label Text="{Binding Date}" FontSize="Medium" />
-                </StackLayout>
-                
-                <StackLayout Orientation="Horizontal">
-                    <Label Text="Nouveaux cas : " FontSize="Medium" FontAttributes="Bold" />
-                    <Label Text="{Binding NewCases}" FontSize="Medium" />
+        <ScrollView Grid.Row="1" IsVisible="{Binding ShowInfo}" Margin="15" >
+            <StackLayout  >
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Margin="10">
+                    <Label Text="Informations datant du " FontSize="Medium" TextColor="Beige" />
+                    <Label Text="{Binding Date}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
 
-                <StackLayout Orientation="Horizontal">
-                    <Label Text="Nouveaux morts : " FontSize="Medium" FontAttributes="Bold" />
-                    <Label Text="{Binding NewDeaths}" FontSize="Medium" />
+                <StackLayout Orientation="Horizontal" Margin="10" >
+                    <Label Text="Nouveaux cas : " FontSize="Medium" FontAttributes="Bold" TextColor="Beige" />
+                    <Label Text="{Binding NewCases}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
 
-                <StackLayout Orientation="Horizontal">
-                    <Label Grid.Row="2" Text="Total des cas : " FontSize="Medium" FontAttributes="Bold" />
-                    <Label Grid.Row="2" Text="{Binding TotalCases}" FontSize="Medium" />
+                <StackLayout Orientation="Horizontal" Margin="10">
+                    <Label Text="Nouveaux morts : " FontSize="Medium" FontAttributes="Bold" TextColor="Beige"/>
+                    <Label Text="{Binding NewDeaths}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
 
-                <StackLayout Orientation="Horizontal">
-                    <Label Text="Total des cas soignés : " FontSize="Medium" FontAttributes="Bold" />
-                    <Label Text="{Binding TotalRecoveries}" FontSize="Medium" />
+                <StackLayout Orientation="Horizontal" Margin="10">
+                    <Label Grid.Row="2" Text="Total des cas : " FontSize="Medium" FontAttributes="Bold" TextColor="Beige"/>
+                    <Label Grid.Row="2" Text="{Binding TotalCases}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
 
-                <StackLayout Orientation="Horizontal">
-                    <Label Text="Total des morts : " FontSize="Medium" FontAttributes="Bold" />
-                    <Label Text="{Binding TotalDeaths}" FontSize="Medium" />
+                <StackLayout Orientation="Horizontal" Margin="10">
+                    <Label Text="Total des cas soignés : " FontSize="Medium" FontAttributes="Bold" TextColor="Beige"/>
+                    <Label Text="{Binding TotalRecoveries}" FontSize="Medium" TextColor="Beige"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" Margin="10">
+                    <Label Text="Total des morts : " FontSize="Medium" FontAttributes="Bold" TextColor="Beige"/>
+                    <Label Text="{Binding TotalDeaths}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
             </StackLayout>
         </ScrollView>

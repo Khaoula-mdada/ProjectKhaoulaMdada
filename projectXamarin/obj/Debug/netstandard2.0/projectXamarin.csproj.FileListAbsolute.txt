@@ -37,3 +37,17 @@ C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\ob
 C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.dll
 C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\ref\projectXamarin.dll
 C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.pdb
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.deps.json
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.dll
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\bin\Debug\netstandard2.0\ref\projectXamarin.dll
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.pdb
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.csprojAssemblyReference.cache
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\Views\Accueil.xaml.g.cs
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.AssemblyInfoInputs.cache
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.AssemblyInfo.cs
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.dll
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\ref\projectXamarin.dll
+C:\Users\Khaoula\Documents\GitHub\ProjectKhaoulaMdada\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.pdb

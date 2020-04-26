@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="projectXamarin.Views.Accueil">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Black">
+            <Label Text="Consultez les dernières statistiques du COVID19 par pays" TextColor="Beige" FontSize="Medium" HorizontalTextAlignment="Center"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Statistique" Clicked="GoToCreationPage" WidthRequest="200" Margin="100 100 2 100" BackgroundColor="DarkRed" CornerRadius="10" TextColor="White"/>
+            <Image Source="https://www.newshub.co.nz/home/world/2020/03/coronavirus-covid-19-declared-pandemic-world-health-organisation/_jcr_content/par/brightcovevideo/image.dynimg.1280.q75.jpg/v1583945751549/GettyImages-1202564136-coronavirus-globe-1120.jpg" WidthRequest="200" HeightRequest="300" Margin="10"></Image>
+        </StackLayout>
+     </ContentPage.Content>
+</ContentPage>
