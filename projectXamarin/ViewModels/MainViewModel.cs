@@ -17,25 +17,70 @@ namespace projectXamarin.ViewModels
         {
             get { return !IsBusy; }
         }
+
+        bool showInfo;
+        public bool ShowInfo
+        {
+            get { return showInfo; }
+            set { SetProperty(ref showInfo, value); }
+        }
+
         string querry;
         public string Querry
         {
             get { return querry; }
             set { SetProperty(ref querry, value); }
         }
-        string intitule;
-        public string Intitule
+
+        string date;
+        public string Date
         {
-            get { return intitule; }
-            set { SetProperty(ref intitule, value); }
+            get { return date; }
+            set { SetProperty(ref date, value); }
         }
-        string code;
-        public string Code
+
+        string countryName;
+        public string CountryName
         {
-            get { return code; }
-            set { SetProperty(ref code, value); }
+            get { return countryName; }
+            set { SetProperty(ref countryName, value); }
         }
-     
+
+        string newCases;
+        public string NewCases
+        {
+            get { return newCases; }
+            set { SetProperty(ref newCases, value); }
+        }
+
+        string newDeaths;
+        public string NewDeaths
+        {
+            get { return newDeaths; }
+            set { SetProperty(ref newDeaths, value); }
+        }
+
+        string totalCases;
+        public string TotalCases
+        {
+            get { return totalCases; }
+            set { SetProperty(ref totalCases, value); }
+        }
+
+        string totalRecoveries;
+        public string TotalRecoveries
+        {
+            get { return totalRecoveries; }
+            set { SetProperty(ref totalRecoveries, value); }
+        }
+
+        string totalDeaths;
+        public string TotalDeaths
+        {
+            get { return totalDeaths; }
+            set { SetProperty(ref totalDeaths, value); }
+        }
+
         public ICommand GetCommand => new Command(() => Task.Run(LoadcoronaData));
         async Task LoadcoronaData()
         {
@@ -48,23 +93,46 @@ namespace projectXamarin.ViewModels
             var client = HttpService.GetInstance();
             try
             {
-                var result = await client.GetAsync($"https://api.thevirustracker.com/free-api?countryTimeline="+Querry);
+                var result = await client.GetAsync($"https://api.thevirustracker.com/free-api?countryTimeline="+ Querry);
                 var serializedResponse = await result.Content.ReadAsStringAsync();
-                var response = JsonConvert.DeserializeObject<Coronaresponse>(serializedResponse);
-                Console.WriteLine("result", result);
-                if (response?.Countrytimelinedata != null)
+                CoronaResponse response = JsonConvert.DeserializeObject<CoronaResponse>(serializedResponse);
+
+                if (response.CountryData == null || response.CountryStats == null)
                 {
-                    Intitule = response.Countrytimelinedata[0].Title;
-                    Code = response.Countrytimelinedata[0].Code;
+                    Device.BeginInvokeOnMainThread(async () =>
+                    {
+                        await App.Current.MainPage.DisplayAlert("Erreur", "Pays non trouvé", "OK");
+                    });
+                    IsBusy = false;
+                    return;
                 }
-         
+
+                //Transformation de la propriété CountryStats de CoronaResponse en Dictionnaire car ses propriétés sont dynamiques (dates)
+                Dictionary<string, object> dicStats = JsonConvert.DeserializeObject<Dictionary<string, object>>(response.CountryStats.FirstOrDefault().ToString());
+                //Récupération de l'objet correspondant à la date de la veille dans le dictionnaire
+                var value = dicStats[DateTime.Now.AddDays(-1).ToString("M/d/yy")];
+                //Deserialisation de l'objet en CountryStatistic
+                CountryStatistic stats = JsonConvert.DeserializeObject<CountryStatistic>(value.ToString());
+
+                ShowInfo = true;
+                CountryName = response.CountryData.FirstOrDefault().Info.Name;
+                NewCases = stats.NewCases;
+                NewDeaths = stats.NewDeaths;
+                TotalCases = stats.TotalCases;
+                TotalRecoveries = stats.TotalRecoveries;
+                TotalDeaths = stats.TotalDeaths;
+                Date = DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy");
+
+                IsBusy = false;
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
+                Device.BeginInvokeOnMainThread(async () =>
+                {
+                    await App.Current.MainPage.DisplayAlert("Erreur", "Pays non trouvé", "OK");
+                });
+                IsBusy = false;
             }
-
-            IsBusy = false;
         }
     }
 }

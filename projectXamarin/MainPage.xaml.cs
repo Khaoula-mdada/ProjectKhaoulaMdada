@@ -20,13 +20,5 @@ namespace projectXamarin
             InitializeComponent();
             BindingContext = new MainViewModel();
         }
-
-        void Entry_Completed(System.Object sender, System.EventArgs e)
-        {
-            if (BindingContext is MainViewModel vm)
-            {
-                vm.GetCommand.Execute(sender);
-            }
-        }
     }
 }

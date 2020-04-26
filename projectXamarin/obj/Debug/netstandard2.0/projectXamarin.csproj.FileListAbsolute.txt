@@ -11,3 +11,29 @@ C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\
 C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.dll
 C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\ref\projectXamarin.dll
 C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.deps.json
+D:\Firefox Downloads\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\ref\projectXamarin.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.csprojAssemblyReference.cache
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.AssemblyInfoInputs.cache
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.AssemblyInfo.cs
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\ref\projectXamarin.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.deps.json
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\ref\projectXamarin.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\bin\Debug\netstandard2.0\projectXamarin.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.csprojAssemblyReference.cache
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.AssemblyInfoInputs.cache
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.AssemblyInfo.cs
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\ref\projectXamarin.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin\obj\Debug\netstandard2.0\projectXamarin.pdb

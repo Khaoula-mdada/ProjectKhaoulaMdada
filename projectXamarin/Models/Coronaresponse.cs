@@ -5,41 +5,45 @@ using System.Text;
 
 namespace projectXamarin.Models
 {
-    public class Coronaresponse
+    public class CoronaResponse
     {
+        //Informations du pays
         [JsonProperty("countrytimelinedata")]
-        public List<Info> Countrytimelinedata { get; set; }
-
-        [JsonProperty("coronaTimeData")]
-        public CoronaTimeData CoronaTime { get; set; }
-
-           
-        public partial class Info
+        public List<CountryTimeLineData> CountryData { get; set; }
+        public partial class CountryTimeLineData
         {
-
+            [JsonProperty("info")]
+            public CountryInfo Info { get; set; }
+        }
+        public partial class CountryInfo
+        {
             [JsonProperty("title")]
-            public string Title { get; set; }
+            public string Name { get; set; }
 
             [JsonProperty("code")]
             public string Code { get; set; }
-
-        }
-        public partial class CoronaTimeData
-        {
-            [JsonProperty("new_daily_cases ")]
-            public string New_daily_cases { get; set; }
-
-            [JsonProperty("new_daily_deaths")]
-            public string New_daily_deaths { get; set; }
-
-            [JsonProperty("total_cases")]
-            public string Total_cases { get; set; }
-            [JsonProperty("total_recoveries")]
-            public string Total_recoveries { get; set; }
-
-            [JsonProperty("total_deaths")]
-            public string Total_deaths { get; set; }
         }
 
+        //Statistiques du pays
+        [JsonProperty("timelineitems")]
+        public List<object> CountryStats { get; set; }
+    }
+
+    public class CountryStatistic
+    {
+        [JsonProperty("new_daily_cases")]
+        public string NewCases { get; set; }
+
+        [JsonProperty("new_daily_deaths")]
+        public string NewDeaths { get; set; }
+
+        [JsonProperty("total_cases")]
+        public string TotalCases { get; set; }
+
+        [JsonProperty("total_recoveries")]
+        public string TotalRecoveries { get; set; }
+
+        [JsonProperty("total_deaths")]
+        public string TotalDeaths { get; set; }
     }
 }

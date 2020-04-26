@@ -471,3 +471,949 @@ C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin.Android\obj\Debug\90\stam
 C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Khaoula\Desktop\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.Android.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.Android.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\com.companyname.projectxamarin.apk
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\com.companyname.projectxamarin-Signed.aab
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\com.companyname.projectxamarin-Signed.apk
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\build.props
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\adb.props
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.csprojAssemblyReference.cache
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\resourcepaths.cache
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\resourcecache.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res.flag
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\DBB4374221BF4492.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\9FF0588B34BF59AA.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\8FE1E5AE63BF2D4A.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\5CC96B0AE299D231.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\27B8A17F25D8BE53.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\1BD5243F97FA8ADC.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\935DFAADBCFAB0AC.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\D7199564A9FAAD94.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\0BC4991AC0FAFE3C.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\5064C92C6ADC3B37.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\1420A6E57FDC260F.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\DBB4374221BF4492.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\9FF0588B34BF59AA.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\8FE1E5AE63BF2D4A.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\5CC96B0AE299D231.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\27B8A17F25D8BE53.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\1BD5243F97FA8ADC.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\935DFAADBCFAB0AC.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\D7199564A9FAAD94.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\0BC4991AC0FAFE3C.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\5064C92C6ADC3B37.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\1420A6E57FDC260F.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\compiled.flata
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\R.txt
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\R.cs.flag
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\XamlC.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.csproj.CopyComplete
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\com.companyname.projectxamarin.apk
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\base.zip
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\com.companyname.projectxamarin.aab
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\com.companyname.projectxamarin.apks
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\layout\tabbar.xml
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\layout\toolbar.xml
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\values\styles.xml
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\values\colors.xml
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\uploadflags.txt
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\resolvedassemblies.hash
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Java.Interop.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Android.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Security.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\mscorlib.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\mscorlib.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\netstandard.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.Android.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.Android.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Core.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Core.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Runtime.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Transactions.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\__environment__.txt
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\machine.config
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\mono.android.jar
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\static.flag
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\buildid.txt
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.arm64-v8a.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86_64.s
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\transition\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\design\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc6402d55b2f168328c3\MainActivity.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\compat\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\packaged_resources
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\com\companyname\projectxamarin\R.java
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.arm64-v8a.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86_64.o
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\classes.dex
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\Firefox Downloads\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.Android.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.Android.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\com.companyname.projectxamarin.apk
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\com.companyname.projectxamarin-Signed.aab
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\com.companyname.projectxamarin-Signed.apk
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\bin\Debug\projectXamarin.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\build.props
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\adb.props
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.csprojAssemblyReference.cache
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\resourcecache.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res.flag
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\ED6C0970F2BA6345.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\A92866B9E7BA7E7D.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\B939DB9CB0BA0A9D.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\6A115538319CF5E6.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\11609F4DF6DD9984.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\2D0D1A0D44FFAD0B.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\A585C49F6FFF977B.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\E1C1AB567AFF8A43.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\3D1CA72813FFD9EB.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\66BCF71EB9D91CE0.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\22F898D7ACD901D8.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\ED6C0970F2BA6345.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\A92866B9E7BA7E7D.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\B939DB9CB0BA0A9D.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\6A115538319CF5E6.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\11609F4DF6DD9984.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\2D0D1A0D44FFAD0B.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\A585C49F6FFF977B.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\E1C1AB567AFF8A43.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\3D1CA72813FFD9EB.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\66BCF71EB9D91CE0.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\22F898D7ACD901D8.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\R.txt
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\R.cs.flag
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.csproj.CopyComplete
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\projectXamarin.Android.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\com.companyname.projectxamarin.apk
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\com.companyname.projectxamarin.aab
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\com.companyname.projectxamarin.apks
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.Android.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.Android.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\projectXamarin.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\__environment__.txt
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\static.flag
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\buildid.txt
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc6402d55b2f168328c3\MainActivity.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\src\com\companyname\projectxamarin\R.java
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Khaoula\Desktop\projectXamarin - Copie\projectXamarin\projectXamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

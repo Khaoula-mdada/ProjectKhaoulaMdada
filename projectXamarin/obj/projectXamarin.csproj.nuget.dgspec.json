@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {}
+    "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {
+    "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\projectXamarin.csproj",
+        "projectUniqueName": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj",
         "projectName": "projectXamarin",
-        "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\projectXamarin.csproj",
+        "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj",
         "packagesPath": "C:\\Users\\Khaoula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\obj\\",
+        "outputPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

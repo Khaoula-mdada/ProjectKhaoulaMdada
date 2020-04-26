@@ -6,14 +6,51 @@
             mc:Ignorable="d"
             x:Class="projectXamarin.MainPage">
 
-    <ScrollView>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
         <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-            <Entry Placeholder="Id country" Text="{Binding Querry}" Completed="Entry_Completed" />
+            <Entry Placeholder="Identifiant du pays (ex : FR)" Text="{Binding Querry}" />
             <Button Text="Get Corona Statistic" Command="{Binding GetCommand}" IsEnabled="{Binding IsNotBusy}"/>
-            <ActivityIndicator IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}" VerticalOptions="Center"/>
-            <Label Text="{Binding Intitule}" HorizontalTextAlignment="Center" />
-            <Label Text="{Binding Code}" HorizontalTextAlignment="Center" />
-          
+            <Label Text="{Binding CountryName}" HorizontalTextAlignment="Center" FontSize="Title" FontAttributes="Bold" />
         </StackLayout>
-    </ScrollView>
+
+        <ScrollView Grid.Row="1" IsVisible="{Binding ShowInfo}">
+            <StackLayout Spacing="10">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Label Text="Informations datant du " FontSize="Medium" />
+                    <Label Text="{Binding Date}" FontSize="Medium" />
+                </StackLayout>
+                
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Nouveaux cas : " FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="{Binding NewCases}" FontSize="Medium" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Nouveaux morts : " FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="{Binding NewDeaths}" FontSize="Medium" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Grid.Row="2" Text="Total des cas : " FontSize="Medium" FontAttributes="Bold" />
+                    <Label Grid.Row="2" Text="{Binding TotalCases}" FontSize="Medium" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Total des cas soignés : " FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="{Binding TotalRecoveries}" FontSize="Medium" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Total des morts : " FontSize="Medium" FontAttributes="Bold" />
+                    <Label Text="{Binding TotalDeaths}" FontSize="Medium" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+        <ActivityIndicator Grid.RowSpan="2" IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}" VerticalOptions="Center"/>
+    </Grid>
 </ContentPage>

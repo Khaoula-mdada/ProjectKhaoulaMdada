@@ -1979,11 +1979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin.Android\\projectXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin.Android\\projectXamarin.Android.csproj",
       "projectName": "projectXamarin.Android",
-      "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin.Android\\projectXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin.Android\\projectXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\Khaoula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2004,8 +2004,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {
-              "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin\\projectXamarin\\projectXamarin.csproj"
+            "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj": {
+              "projectPath": "C:\\Users\\Khaoula\\Desktop\\projectXamarin - Copie\\projectXamarin\\projectXamarin\\projectXamarin.csproj"
             }
           }
         }
