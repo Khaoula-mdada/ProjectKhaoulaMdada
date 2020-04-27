@@ -82,6 +82,7 @@ namespace projectXamarin.ViewModels
         }
 
         public ICommand GetCommand => new Command(() => Task.Run(LoadcoronaData));
+        public ICommand Reset => new Command(() => Task.Run(ResetForm));
         async Task LoadcoronaData()
         {
             if (String.IsNullOrEmpty(Querry))
@@ -133,6 +134,18 @@ namespace projectXamarin.ViewModels
                 });
                 IsBusy = false;
             }
+        }
+        public void ResetForm()
+        {
+            ShowInfo = false;
+            CountryName = "";
+            NewCases = "";
+            NewDeaths = "";
+            TotalCases = "";
+            TotalRecoveries = "";
+            TotalDeaths = "";
+            Date = "";
+            Querry = "";
         }
     }
 }

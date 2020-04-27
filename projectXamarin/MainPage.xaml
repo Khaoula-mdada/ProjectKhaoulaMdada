@@ -12,14 +12,14 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <StackLayout BackgroundColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-            <Entry Placeholder="Identifiant du pays (ex : FR)" Text="{Binding Querry}" TextColor="Beige"/>
-            <Button Text="Afficher les statistiques" Command="{Binding GetCommand}" IsEnabled="{Binding IsNotBusy}" WidthRequest="300" Margin="50 100 2 100" BackgroundColor="DarkRed" CornerRadius="10" TextColor="Beige"/>
+            <Entry Placeholder="Identifiant du pays (ex : FR)" Text="{Binding Querry}" TextColor="Black" BackgroundColor="DarkGray"/>
+            <Button Text="Afficher les statistiques" Command="{Binding GetCommand}" IsEnabled="{Binding IsNotBusy}" WidthRequest="300" Margin="30" BackgroundColor="DarkRed" CornerRadius="10" TextColor="Beige"/>
             <Label Text="{Binding CountryName}" HorizontalTextAlignment="Center" FontSize="Title" FontAttributes="Bold" TextColor="Beige"/>
         </StackLayout>
 
-        <ScrollView Grid.Row="1" IsVisible="{Binding ShowInfo}" Margin="15" >
+        <ScrollView Grid.Row="1" IsVisible="{Binding ShowInfo}" >
             <StackLayout  >
-                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Margin="10">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Margin="30">
                     <Label Text="Informations datant du " FontSize="Medium" TextColor="Beige" />
                     <Label Text="{Binding Date}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
@@ -48,6 +48,7 @@
                     <Label Text="Total des morts : " FontSize="Medium" FontAttributes="Bold" TextColor="Beige"/>
                     <Label Text="{Binding TotalDeaths}" FontSize="Medium" TextColor="Beige"/>
                 </StackLayout>
+                <Button Text="Nouvelle Recherche" Command="{Binding Reset}" IsEnabled="{Binding IsNotBusy}" WidthRequest="300" BackgroundColor="DarkRed" CornerRadius="10" TextColor="Beige" Margin="30"/>
             </StackLayout>
         </ScrollView>
 
